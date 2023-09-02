@@ -1,0 +1,25 @@
+img:hover {
+    border: 3px solid red;
+}
+
+#new{
+    transform: scale(1);
+    transition: all .2s linear;
+}
+
+#new:hover{
+transform:scale(1.1);
+border:20px solid red;
+
+}
+
+nav:hover{
+    border: 2px solid yellow;
+}
+
+.btn:hover{
+    border: 4px solid;
+}
+
+
+
